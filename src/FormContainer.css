@@ -1,0 +1,8 @@
+.form-container {
+  max-width: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  justify-content: space-evenly;
+  text-align: center;
+}
